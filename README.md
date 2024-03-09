@@ -9,7 +9,7 @@ github: https://github.com/DannySanchez03/12ModChallenge
 In this Module 12 Challenge we were told to create a database in which the user would require the use of inqurer to create tables and save them to the company's database. This challenge was done using inqurer and mysql2.
 
 ## Installation
-
+[[Watch the Video]](https://drive.google.com/file/d/1fZVr77Y2j-d0c0H9G-00qDnJJLxLmnm4/view)
 
 
 ## Usage
