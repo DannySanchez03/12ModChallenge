@@ -1,12 +1,11 @@
-# 12ModChallenge Sequal.js: Employee database
-Module 12 Challenge
-# Employee DataBase
+# Employee database
+11th Challenge
 
-github: https://github.com/DannySanchez03/12ModChallenge
+Created: [here](https://github.com/DannySanchez03/Employee-Database)
 
 ## Description
 
-In this Module 12 Challenge we were told to create a database in which the user would require the use of inqurer to create tables and save them to the company's database. This challenge was done using inqurer and mysql2.
+In this 11th Challenge I was told to create a database using mySQL in which the user would require the use of inqurer to create tables and save them to the company's database. This challenge was done using inqurer and mysql2.
 
 ## Installation
 [[Watch the Video]](https://drive.google.com/file/d/1fZVr77Y2j-d0c0H9G-00qDnJJLxLmnm4/view)
